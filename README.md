@@ -113,11 +113,9 @@ Expected results the data type and format of table should compatible with the fo
 
 Actual result: -
 
-*************************************************************************************************************
-# Parking Map
-```
-    Test case ID: Check the number of car had parking in each slots.
-```
+**************************************************************************************************************
+
+Test case ID: Check the number of car had parking in each slots.
 ## Objective 
 ```
     To check the changing status of slots over a selected time period.
